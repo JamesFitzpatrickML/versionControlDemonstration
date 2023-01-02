@@ -1,2 +1,2 @@
 # versionControlDemonstration
-An demonstration respository for music projects! :)
+Here is my example song project! Here is where I will keep all of the files for my song as I develop it! :)
